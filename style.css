@@ -25,12 +25,18 @@
   top: 15%;
   right: 2%;
 }
+.badge{
+  margin-top: -20px;
+}
 /* Start Fearture Section  */
 
 
 
-@media only screen and (min-width: 993px) and (max-width: 1200px){
+@media only screen and (min-width: 993px) and (max-width: 1400px){
+  .card-body-3{
+    height: 400px;
+  }
   .card-3{
-    margin-top: -20px;
+    margin-top: -30px;
   }
   }
